@@ -1,0 +1,31 @@
+fuck as hell
+============
+
+*(Note: the name of this file does not mean that you should do that)*
+
+How to Fuck?
+------------
+
+### The Fuck Way
+
+```
+gcc -o fash fash.c
+./fash
+```
+
+### The Wrong Way
+
+```
+make
+```
+
+### The Right Way
+
+Not gonna tell you.
+
+How to Clean Up 
+---------------
+
+```
+make apocalypse
+```
